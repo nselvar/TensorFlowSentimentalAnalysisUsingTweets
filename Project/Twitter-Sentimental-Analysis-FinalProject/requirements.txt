@@ -1,0 +1,4 @@
+pandas==1.0.1
+numpy==1.17.0
+tensorflow==2.1.0rc2
+nltk==3.4.5

@@ -1,0 +1,18 @@
+
+Word Embeddings are a way to convert words into a numerical representation that machine learning models can use as inputs.
+Used standfoed tweets dataset(training.1600000.processed.noemoticon.csv)
+Docs are available in /WordEmbedding-FinalProject/docs
+
+Execute:
+python word2vector.py
+
+Requirements:
+tensorflow==2.1.0rc2
+scipy==0.18.1
+pandas==1.0.1
+matplotlib==3.1.3
+plotly==4.5.3
+numpy==1.17.0
+nltk==3.4.5
+scikit_learn==0.18.1
+

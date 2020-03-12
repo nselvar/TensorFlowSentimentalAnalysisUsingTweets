@@ -1,0 +1,12 @@
+Sentiment Analyzer with TensorFlow
+
+Sentiment Analysis is a type of data mining that measures the inclination of people’s
+opinions.The project quantify the general public's sentiments in Twitter by
+classifying,whether a tweet is positive or negative, i.e. the tonality, which is
+done by a deep neural network.Twitter Data is prefered for Sentiment Analysis
+because it is a popular microblogging site which has 240+ million active users,and it
+also will be a interesting analysis of tweets by users who often discuss current affairs 
+and share personal views on various subjects.The goal of the project is to determine
+the emotional tone behind a piece of text using feedforward neural networks.
+
+
